@@ -6,7 +6,7 @@
 
 💻 I’m a Backend Developer, working with Go, Spring Boot, Hibernate & PostgreSQL
 
-📱 Interested in Android (Java) Development & improving my UI/UX skills
+📱 Interested in Backend Development & improving my programming skills
 
 🌱 Currently learning advanced backend architecture, distributed systems, and cloud tooling
 
