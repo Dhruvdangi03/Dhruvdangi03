@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Dhruvdangi03 
-- 👀 I’m interested in Java and Python Development, I also want to learn other tech Stacks and Language 
-- 🌱 I’m currently learning java, python and few other languages
-- 💞️ I’m looking to collaborate on projects
-- 📫 you can email me in dhruvsinghdangi03@gmail.com
+👋 Hey, I’m Dhruv Dangi
 
-<!---
-Dhruvdangi03/Dhruvdangi03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Backend Software Engineer | Go (Golang) • Spring Boot • PostgreSQL • API Development
+
+👀 About Me
+
+💻 I’m a Backend Developer, working with Go, Spring Boot, Hibernate & PostgreSQL
+
+📱 Interested in Android (Java) Development & improving my UI/UX skills
+
+🌱 Currently learning advanced backend architecture, distributed systems, and cloud tooling
+
+🤝 Open to collaborating on backend-heavy, scalable system projects
+
+🔎 Actively exploring SDE 1 Backend opportunities
+
+📫 Reach Me At
+
+📧 dhruvsinghdangi03@gmail.com
